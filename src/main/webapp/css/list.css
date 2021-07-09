@@ -1,0 +1,14 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+input[type=text] {
+    width: 80%;
+}
+
+label {
+    margin: 0;
+}
+.modal-dialog {
+    max-width: 50% !important;
+}

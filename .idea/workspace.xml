@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="manage_customer:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ba94c15-0cb1-4ccb-9072-3adaf68a8b84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../JDBC/JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MODULE 3/JSTL/Calculator/.idea/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MODULE 3/JSTL/Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MODULE 3/JSTL/ShowListCustomer/.idea/ShowListCustomer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MODULE 3/JavaApplication/advanced_login/.idea/advanced_login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/IGeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/customer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/java/controllers/UserControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/java/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/java/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/main/webapp/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/main/webapp/WEB-INF/views/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/.idea/JPA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/.idea/modules/manage-customer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/java/com/codegym/cms/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/java/com/codegym/cms/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/java/com/codegym/cms/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/java/com/codegym/cms/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/java/com/codegym/cms/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/java/com/codegym/cms/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/java/com/codegym/cms/repository/IGeneralRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/java/com/codegym/cms/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/java/com/codegym/cms/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/java/com/codegym/cms/service/IGeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/manage-customer/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/.idea/modules/manage-customer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/java/com/codegym/cms/controller/ProvinceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/java/com/codegym/cms/formatter/ProvinceFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/java/com/codegym/cms/model/Province.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/java/com/codegym/cms/repository/IProvinceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/java/com/codegym/cms/service/IProvinceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/java/com/codegym/cms/service/ProvinceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/webapp/WEB-INF/views/province/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/webapp/WEB-INF/views/province/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/webapp/WEB-INF/views/province/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/webapp/WEB-INF/views/province/error.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/webapp/WEB-INF/views/province/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Data/manage-customer/src/main/webapp/WEB-INF/views/province/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/cms/src/main/java/cg/wbd/grandemonstration/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/cms/src/main/webapp/WEB-INF/app-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/currency-conversion/currency-conversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/currency-conversion/src/java/controllers/CalcControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/currency-conversion/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/currency-conversion/src/main/webapp/WEB-INF/views/calc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/currency-conversion/src/main/webapp/WEB-INF/views/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/spring_greeting/spring_greeting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/spring_greeting/src/main/java/controllers/GreetingControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/spring_greeting/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/spring_greeting/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/translate/src/java/controllers/TransControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/translate/src/java/models/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/translate/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/translate/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/translate/translate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo_lvn/create_project_springmvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo_lvn/src/java/controllers/HelloControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo_lvn/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo_lvn/src/main/webapp/WEB-INF/views/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_cookie/add_product_to_cart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_cookie/add_product_to_cart/src/main/webapp/WEB-INF/views/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_cookie/add_product_to_cart/src/main/webapp/WEB-INF/views/error.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_cookie/add_product_to_cart/src/main/webapp/WEB-INF/views/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudyModule2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudyModule2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/-Huy-Chuong-_BTSuKienChuot" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/-Huy-Chuong-_BTSuKienChuot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/CS-module1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/CS-module1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/Function" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/Function" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/controll-car" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/controll-car" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/htmlw1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/htmlw1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/vonglap" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/vonglap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 3/JDBC/src/main/java/com/example/JDBC/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 3/JDBC/src/main/java/com/example/JDBC/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 3/JDBC/target/JDBC-1.0-SNAPSHOT/WEB-INF/classes/com/example/JDBC/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 3/JDBC/target/JDBC-1.0-SNAPSHOT/WEB-INF/classes/com/example/JDBC/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 3/JDBC/target/classes/com/example/JDBC/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 3/JDBC/target/classes/com/example/JDBC/dao/UserDAO.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1uLzXp91Ji1j4RODD1z78cn9Fdn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\fileCG\MODULE 4\Customer_SpringMVC\manage_customer\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.46" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="manage_customer:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="2e581fb8-68a7-4533-a446-3c444d1e712c" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55495" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="manage_customer:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="3a458793-d594-424e-8c8e-6ca8ba687045" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55495" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ba94c15-0cb1-4ccb-9072-3adaf68a8b84" name="Default Changelist" comment="" />
+      <created>1624459701226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624459701226</updated>
+      <workItem from="1624459702590" duration="8402000" />
+      <workItem from="1624498230767" duration="1997000" />
+      <workItem from="1624500244233" duration="822000" />
+      <workItem from="1624501086961" duration="488000" />
+      <workItem from="1624501882674" duration="20000" />
+      <workItem from="1624502271169" duration="16099000" />
+      <workItem from="1624541788510" duration="575000" />
+      <workItem from="1624543787614" duration="10657000" />
+      <workItem from="1624584247671" duration="9930000" />
+      <workItem from="1624594752395" duration="701000" />
+      <workItem from="1624595762661" duration="12329000" />
+      <workItem from="1624849539715" duration="75000" />
+      <workItem from="1624874461993" duration="338000" />
+      <workItem from="1624880360973" duration="595000" />
+      <workItem from="1624899590069" duration="87000" />
+      <workItem from="1624900555004" duration="382000" />
+      <workItem from="1624929122333" duration="1065000" />
+      <workItem from="1624932689413" duration="1041000" />
+      <workItem from="1624936698250" duration="2455000" />
+      <workItem from="1624972739384" duration="1203000" />
+      <workItem from="1625015981246" duration="607000" />
+      <workItem from="1625018443369" duration="72000" />
+      <workItem from="1625109773945" duration="2198000" />
+      <workItem from="1625123145886" duration="3950000" />
+      <workItem from="1625146646405" duration="1756000" />
+      <workItem from="1625190315412" duration="20233000" />
+      <workItem from="1625559399799" duration="595000" />
+      <workItem from="1625624305159" duration="19732000" />
+      <workItem from="1625671097569" duration="3396000" />
+      <workItem from="1625707768805" duration="3436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.web.servlet.ModelAndView" memberName="cleared" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
